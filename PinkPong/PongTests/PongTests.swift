@@ -2,8 +2,8 @@
 //  PongTests.swift
 //  PongTests
 //
-//  Created by Andre Leslie on 5/15/18.
-//  Copyright © 2018 Andre Leslie. All rights reserved.
+//  Created by Christian Caeg on 5/15/18.
+//  Copyright © 2018 Christian Caeg. All rights reserved.
 //
 
 import XCTest
