@@ -20,7 +20,7 @@ class MenuVC : UIViewController {
         moveToGame(game: .player2)
     }
     
-    @IBAction func Easy(_ sender: Any) {
+    @IBAction func Computer(_ sender: Any) {
         moveToGame(game: .computer)
     }
     
