@@ -140,7 +140,7 @@ class GameScene: SKScene
         switch currentGameType
         {
         case .computer:
-            second.run(SKAction.moveTo(x: ball.position.x, duration: 1.3))
+            second.run(SKAction.moveTo(x: ball.position.x, duration: 1.0))
             break
         case .player2:
             
